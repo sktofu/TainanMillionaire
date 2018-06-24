@@ -207,21 +207,22 @@
 
 
 
+
 #reborn{
 	position:absolute;
-	top:5%;
+	top:19.9%;
 	left:50%;
 	width:50%;
-    	height:50%;
-    	background-image:url(reborn.png);
-    	background-repeat:no-repeat;
-    	background-size:50% 50%;
-	transform:translate(-25%);
+    height:10%;
+    background-image:url(reborn.png);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+	transform:translate(-50%);
 	display:none;
 }
 
 #content0{
-	padding:3%;
+	padding:5%;
 	font-weight:bolder;
 	color:#000000;
 	font-size:20px;
@@ -230,8 +231,8 @@
 	background-color:#c8c9ca;
 	font-family:Microsoft JhengHei;
 	position:absolute;
-	height:55%;
-	width:20%;
+	height:50%;
+	width:60%;
 	top:30%;
 	left:50%;
 	transform:translate(-50%);
@@ -249,9 +250,9 @@
 	border-radius: 100px;
 	font-family:Microsoft JhengHei;
 	position:absolute;
-	height:6%;
-	width:22%;
-	top:65%;
+	height:3%;
+	width:50%;
+	top:55%;
 	left:50%;
 	transform:translate(-50%);
 	cursor:pointer;
@@ -267,9 +268,9 @@
 	border-radius: 100px;
 	font-family:Microsoft JhengHei;
 	position:absolute;
-	height:6%;
-	width:22%;
-	top:72.5%;
+	height:3%;
+	width:50%;
+	top:60%;
 	left:50%;
 	transform:translate(-50%);
 	cursor:pointer;
@@ -285,9 +286,9 @@
 	border-radius: 100px;
 	font-family:Microsoft JhengHei;
 	position:absolute;
-	height:6%;
-	width:22%;
-	top:80%;
+	height:3%;
+	width:50%;
+	top:65%;
 	left:50%;
 	transform:translate(-50%);
 	cursor:pointer;
@@ -303,11 +304,12 @@
 	border-radius: 100px;
 	font-family:Microsoft JhengHei;
 	position:absolute;
-	height:6%;
-	width:22%;
-	top:87.5%;
+	height:3%;
+	width:50%;
+	top:70%;
 	left:50%;
 	transform:translate(-50%);
 	cursor:pointer;
 	display:none;
 }
+
